@@ -1,6 +1,6 @@
-﻿# 🤖 AI & Machine Learning Journey
+﻿# AI & Machine Learning Journey
 
-Welcome to my **AI & Machine Learning Journey**! 🚀
+Welcome to my **AI & Machine Learning Journey**! 
 
 Hi, I'm **Syed Muhammad Ayaz**, a BS Information Technology student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
@@ -8,7 +8,7 @@ This repository documents my complete learning journey—from Python fundamental
 
 ---
 
-## 🎯 Goal
+## Goal
 
 My goal is to become a skilled **AI & Machine Learning Engineer** by consistently learning, practicing, and building projects.
 
@@ -18,9 +18,9 @@ I believe that:
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
-### ✅ 01. Python
+###  01. Python
 - Python Basics
 - Variables & Data Types
 - Operators
@@ -38,7 +38,7 @@ I believe that:
 - Exception Handling
 - Mini Projects
 
-### ⏳ 02. NumPy
+###  02. NumPy
 - Arrays
 - Indexing
 - Slicing
@@ -46,7 +46,7 @@ I believe that:
 - Broadcasting
 - Practice Problems
 
-### ⏳ 03. Pandas
+###  03. Pandas
 - Series
 - DataFrames
 - Data Cleaning
@@ -54,20 +54,20 @@ I believe that:
 - GroupBy
 - Practice
 
-### ⏳ 04. Matplotlib
+###  04. Matplotlib
 - Line Charts
 - Bar Charts
 - Pie Charts
 - Scatter Plots
 - Data Visualization
 
-### ⏳ 05. Statistics
+###  05. Statistics
 - Mean, Median & Mode
 - Probability
 - Standard Deviation
 - Hypothesis Testing
 
-### ⏳ 06. Machine Learning
+### 06. Machine Learning
 - Linear Regression
 - Logistic Regression
 - KNN
@@ -76,7 +76,7 @@ I believe that:
 - Support Vector Machine (SVM)
 - Clustering
 
-### ⏳ 07. Deep Learning
+###  07. Deep Learning
 - Neural Networks
 - TensorFlow
 - PyTorch
@@ -84,17 +84,17 @@ I believe that:
 - RNN
 - LSTM
 
-### ⏳ 08. Natural Language Processing (NLP)
+###  08. Natural Language Processing (NLP)
 
-### ⏳ 09. Computer Vision
+###  09. Computer Vision
 
-### ⏳ 10. Generative AI
+###  10. Generative AI
 
-### ⏳ 11. AI Projects
+###  11. AI Projects
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 AI-ML-Journey/
@@ -115,7 +115,7 @@ AI-ML-Journey/
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 - Python
 - NumPy
@@ -130,41 +130,40 @@ AI-ML-Journey/
 
 ---
 
-## 📈 Progress
+##  Progress
 
-- ✅ Python (In Progress)
-- ⏳ NumPy
-- ⏳ Pandas
-- ⏳ Matplotlib
-- ⏳ Statistics
-- ⏳ Machine Learning
-- ⏳ Deep Learning
-- ⏳ NLP
-- ⏳ Computer Vision
-- ⏳ Generative AI
-
----
-
-## 🎯 What You'll Find Here
-
-- 📖 Learning Notes
-- 💻 Practice Programs
-- 🧠 Problem Solving
-- 🚀 Mini Projects
-- 📊 AI & ML Projects
-- 📚 Code with Proper Folder Structure
+-  Python (In Progress)
+-  NumPy
+-  Pandas
+-  Matplotlib
+-  Statistics
+-  Machine Learning
+-  Deep Learning
+-  NLP
+-  Computer Vision
+-  Generative AI
 
 ---
 
-## 🤝 Connect with Me
+##  What You'll Find Here
+
+-  Learning Notes
+-  Practice Programs
+-  Problem Solving
+-  Mini Projects
+-  AI & ML Projects
+   Code with Proper Folder Structure
+
+---
+
+##  Connect with Me
 
 - GitHub: https://github.com/SyedmuhammadAyaz
 - LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you find this repository helpful, consider giving it a ⭐.
-
-Happy Coding! 🚀
+If you find this repository helpful, consider giving it a .
+Happy Coding! 
