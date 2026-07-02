@@ -7,4 +7,6 @@ while i <= num:
     sum += i
     i += 1
 
+
+
 print("Sum =", sum)
