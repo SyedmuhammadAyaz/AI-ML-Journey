@@ -2,39 +2,69 @@
 
 ## About
 
-Welcome to my AI & Machine Learning Journey.
+Welcome to my AI & Machine Learning Journey repository.
 
-I'm **Syed Muhammad Ayaz**, a BS Information Technology student with a passion for Artificial Intelligence, Machine Learning, and Software Development.
+My name is **Syed Muhammad Ayaz**, and I am currently pursuing a Bachelor of Science in Information Technology. This repository documents my learning journey from Python fundamentals to advanced Artificial Intelligence and Machine Learning concepts.
 
-This repository documents my complete learning journey, from Python fundamentals to advanced AI concepts. It includes my daily practice, notes, exercises, projects, and implementations as I continue learning.
+The purpose of this repository is to maintain a structured record of my learning, coding practice, projects, and progress while building a strong foundation in AI and Machine Learning.
 
 ---
 
-## Objective
+## Objectives
 
-The objective of this repository is to:
+The primary goals of this repository are:
 
-- Build a strong foundation in Artificial Intelligence and Machine Learning.
-- Practice programming through consistent problem-solving.
+- Build a strong foundation in Python programming.
+- Learn essential libraries for Data Science and Machine Learning.
+- Practice problem-solving consistently.
 - Develop real-world AI and Machine Learning projects.
-- Track my progress throughout my learning journey.
-- Create a professional portfolio showcasing my skills and growth.
+- Track my learning progress.
+- Build a professional portfolio for internships and future career opportunities.
 
 ---
 
 ## Learning Roadmap
 
+### Programming
+
 - [x] Python (In Progress)
+- [ ] Object-Oriented Programming
+- [ ] Data Structures & Algorithms
+
+### Data Science
+
 - [ ] NumPy
 - [ ] Pandas
 - [ ] Matplotlib
-- [ ] Statistics for Machine Learning
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] Natural Language Processing (NLP)
+- [ ] Seaborn
+
+### Mathematics
+
+- [ ] Statistics
+- [ ] Probability
+- [ ] Linear Algebra
+
+### Machine Learning
+
+- [ ] Data Preprocessing
+- [ ] Regression
+- [ ] Classification
+- [ ] Clustering
+- [ ] Model Evaluation
+
+### Deep Learning
+
+- [ ] Neural Networks
+- [ ] TensorFlow
+- [ ] PyTorch
 - [ ] Computer Vision
+- [ ] Natural Language Processing
+
+### Advanced AI
+
 - [ ] Generative AI
-- [ ] Real-World AI Projects
+- [ ] Large Language Models (LLMs)
+- [ ] AI Projects
 
 ---
 
@@ -43,31 +73,35 @@ The objective of this repository is to:
 ```text
 AI-ML-Journey
 │
+├── README.md
+│
 ├── 01_Python
-│   ├── Basics
-│   ├── Conditional Statements
-│   ├── While Loops
-│   ├── For Loops
-│   ├── Functions
-│   ├── Recursion
-│   ├── Lists
-│   ├── Tuples
-│   ├── Dictionaries
-│   ├── Strings
-│   ├── File Handling
-│   ├── Object-Oriented Programming
-│   └── Mini Projects
+│   ├── 01_Basics
+│   ├── 02_Conditional_Statements
+│   ├── 03_While_Loops
+│   ├── 04_For_Loops
+│   ├── 05_Functions
+│   ├── 06_Recursion
+│   ├── 07_Lists
+│   ├── 08_Tuples
+│   ├── 09_Dictionaries
+│   ├── 10_Sets
+│   ├── 11_Strings
+│   ├── 12_File_Handling
+│   ├── 13_Object_Oriented_Programming
+│   └── 14_Mini_Projects
 │
 ├── 02_NumPy
 ├── 03_Pandas
 ├── 04_Matplotlib
-├── 05_Statistics
-├── 06_Machine_Learning
-├── 07_Deep_Learning
-├── 08_NLP
-├── 09_Computer_Vision
-├── 10_Generative_AI
-└── 11_Projects
+├── 05_Seaborn
+├── 06_Statistics
+├── 07_Machine_Learning
+├── 08_Deep_Learning
+├── 09_NLP
+├── 10_Computer_Vision
+├── 11_Generative_AI
+└── 12_Projects
 ```
 
 ---
@@ -78,12 +112,29 @@ AI-ML-Journey
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
 - TensorFlow
 - PyTorch
 - Git
 - GitHub
 - Visual Studio Code
+
+---
+
+## Repository Contents
+
+This repository includes:
+
+- Python practice programs
+- Coding exercises
+- Notes
+- Assignments
+- Mini Projects
+- Machine Learning implementations
+- Deep Learning experiments
+- AI Projects
+- Learning Resources
 
 ---
 
@@ -95,6 +146,7 @@ AI-ML-Journey
 | NumPy | Planned |
 | Pandas | Planned |
 | Matplotlib | Planned |
+| Seaborn | Planned |
 | Statistics | Planned |
 | Machine Learning | Planned |
 | Deep Learning | Planned |
@@ -104,27 +156,15 @@ AI-ML-Journey
 
 ---
 
-## Repository Contents
+## Learning Philosophy
 
-This repository includes:
+I believe that learning is most effective through consistent practice and real-world implementation.
 
-- Daily coding practice
-- Programming exercises
-- Notes and explanations
-- Mini projects
-- AI & Machine Learning projects
-- Problem-solving solutions
-- Learning resources
+Rather than only studying theory, this repository focuses on writing code, solving problems, building projects, and documenting progress throughout my AI and Machine Learning journey.
 
 ---
 
-## Daily Updates
-
-This repository is updated regularly as I learn new concepts and complete practice exercises and projects.
-
----
-
-## Connect with Me
+## Connect With Me
 
 **GitHub**
 
@@ -132,10 +172,14 @@ https://github.com/SyedmuhammadAyaz
 
 **LinkedIn**
 
-*Add your LinkedIn profile link here.*
+https://www.linkedin.com/in/syedmuhammadayaz/
 
 ---
 
-## Acknowledgment
+## License
 
-Learning Artificial Intelligence and Machine Learning is a continuous journey. This repository reflects my progress, consistency, and commitment to improving my skills through regular practice and project development.
+This repository is intended for educational purposes. Feel free to explore the code, learn from it, and share constructive feedback.
+
+---
+
+**Thank you for visiting this repository.**
